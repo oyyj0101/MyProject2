@@ -1545,3 +1545,77 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.12-07.56.48:070][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3785.380127
 [2026.03.12-07.56.49:063][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.12-07.56.49:063][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3786.041016, Update Interval: 319.224823
+[2026.03.12-08.03.02:108][667]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4159.419434
+[2026.03.12-08.03.03:103][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.12-08.03.03:103][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4160.083496, Update Interval: 335.336761
+[2026.03.12-08.04.03:127][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.12-08.04.03:154][850]LogStall: Shutdown...
+[2026.03.12-08.04.03:154][850]LogStall: Shutdown complete.
+[2026.03.12-08.04.03:184][850]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2026.03.12-08.04.03:414][850]Cmd: QUIT_EDITOR
+[2026.03.12-08.04.03:414][851]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.12-08.04.03:421][851]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.12-08.04.03:422][851]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.12-08.04.03:422][851]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.12-08.04.03:426][851]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:427][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:427][851]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.12-08.04.03:445][851]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.12-08.04.03:446][851]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.12-08.04.03:451][851]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.12-08.04.03:463][851]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:463][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:464][851]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:464][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:464][851]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:464][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:464][851]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:464][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:464][851]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:464][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:464][851]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:464][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:465][851]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:465][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:465][851]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:465][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:465][851]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:465][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:465][851]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:465][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:465][851]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:465][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:467][851]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:467][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:467][851]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-08.04.03:467][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-08.04.03:470][851]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.12-08.04.03:471][851]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.12-08.04.03:473][851]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.12-08.04.03:480][851]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.12-08.04.03:480][851]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.12-08.04.03:480][851]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.03.12-08.04.03:480][851]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.12-08.04.03:481][851]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.12-08.04.03:484][851]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.12-08.04.03:495][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.12-08.04.03:496][851]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.12-08.04.03:499][851]LogSlate: Window 'Retarget Animations' being destroyed
+[2026.03.12-08.04.03:511][851]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.12-08.04.03:512][851]LogExit: Preparing to exit.
+[2026.03.12-08.04.03:624][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.12-08.04.04:919][851]LogEditorDataStorage: Deinitializing
+[2026.03.12-08.04.05:131][851]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.12-08.04.05:258][851]LogExit: Editor shut down
+[2026.03.12-08.04.05:270][851]LogExit: Transaction tracking system shut down
+[2026.03.12-08.04.05:822][851]LogExit: Object subsystem successfully closed.
+[2026.03.12-08.04.05:897][851]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.12-08.04.06:247][851]LogMemoryProfiler: Shutdown
+[2026.03.12-08.04.06:248][851]LogNetworkingProfiler: Shutdown
+[2026.03.12-08.04.06:248][851]LoadingProfiler: Shutdown
+[2026.03.12-08.04.06:249][851]LogTimingProfiler: Shutdown
+[2026.03.12-08.04.06:255][851]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.12-08.04.06:255][851]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.12-08.04.07:131][851]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.12-08.04.07:160][851]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.12-08.04.07:160][851]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF23AB7BB-433C-DBF3-D118-9DA0A13585C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=03989bc64a1b2a4847852a904251c804%7C4c3446779cf34cc69e58ab4a57ff66a6%7C076b1d09-2fc6-4893-89b7-d77b47fac82e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
